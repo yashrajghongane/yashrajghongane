@@ -81,4 +81,4 @@ My long-term goal is to work on **AI and engineering-focused systems** where str
 - Consistent improvement  
 - Long-term engineering mindset  
 
-More projects will be added as I continue building and learning.
+More projects will be added as I continue building and learning. 
