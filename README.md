@@ -1,83 +1,82 @@
-<h1 align="center">Hi, I'm Yashraj Ghongane 👋</h1>
-<h3 align="center">Python | Machine Learning foundations | Building toward AI systems</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yashraj%20Ghongane&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Builder%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+
+### Hi, I'm Yashraj 👋
+
+**B.Tech AI & Data Science Student · Python · Backend · Systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajghongane/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashraj.a.ghongane@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I am focused on building strong foundations in **Machine Learning**, which underpin modern **AI systems**.  
-I take a step-by-step approach, prioritizing **logic, problem-solving, and clear understanding** over shortcuts or surface-level knowledge.
+I'm a **B.Tech Artificial Intelligence & Data Science student** interested in software engineering, backend systems, and building toward AI engineering.
 
-I started with **web development fundamentals**, which helped me understand how applications are structured.  
-Over time, i was focusing toward **machine learning, core engineering concepts, and logic-driven development** rather than UI-centric work.
+I enjoy learning through **building, debugging, and understanding fundamentals**, with a focus on writing clear and practical software.
+
+Currently working mainly with **Python, backend development, databases, Git, and core computer science**.
 
 ---
-## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
-</p>
+## Tech Stack
 
-### 🌐 Web & Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask"/>
-</p>
-
-### 🤖 Machine Learning (Foundations)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn"/>
-</p>
-
-### 🧰 Tools & Environment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="Android Studio"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,fastapi,flask,sqlite,postgresql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📚 Current Focus
+## Currently Learning
 
-- Strengthening **Python** fundamentals  
-- Learning **machine learning concepts and basic workflows**  
-- Working with data handling and preprocessing  
-- Building simple **Android applications using Kotlin**  
-- Improving problem-solving and code clarity  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,postgresql,docker,linux" />
+</p>
+
+**Python · Data Structures & Algorithms · Backend Engineering · Databases · Systems**
 
 ---
 
-## 📁 Repositories
+## Projects
 
-This GitHub profile mainly contains:
-- Practice code  
-- Concept-based experiments  
-- Learning-focused repositories  
+### Smart Queue & Crowd Management System
 
-Each repository reflects my understanding and progress at that stage.
-More projects will be added as I continue building and learning. 
+A full-stack queue and crowd management system combining web software with ESP32-based physical sensing.
 
-## 📫 Contact
+**FastAPI · SQLAlchemy · SQLite/PostgreSQL · ESP32 · IR Sensors · JavaScript**
 
-- **LinkedIn:** [https://www.linkedin.com/in/yashrajghongane/](https://www.linkedin.com/in/yashrajghongane/)
-- **Email:** [yashraj.a.ghongane@gmail.com](mailto:yashraj.a.ghongane@gmail.com)
+### my-dsa-journey
 
-—  
-Learning. Building. Improving.
+My ongoing Data Structures & Algorithms journey in Python, focused on problem-solving, implementation, and understanding complexity.
 
+---
 
+## GitHub
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajghongane&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" height="170"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajghongane&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="170"/>
 
+</div>
+
+---
+
+## Interests
+
+**AI & LLMs · Backend & Infrastructure · Developer Tools · Robotics · Space Technology · Entrepreneurship**
+
+---
+
+<div align="center">
+
+### Building toward bigger systems, one layer at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+
+</div>
